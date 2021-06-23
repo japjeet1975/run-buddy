@@ -1,7 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
+	box-sizing: border-boxwa;
 }
 
 header{
@@ -41,7 +41,7 @@ color:#39a6b2;
 footer {
 background-color: #fce138;
 width: 100%;
-padding: 40px 35 px;
+padding: 40px 55 px;
 }
 footer h2{
 display: inline;
@@ -51,9 +51,19 @@ margin: 0 ;
 }
 footer div {
 float: right;
-line-height: 1.5;
+line-height:1.5;
 text-align: right;
 }
 footer a{
 color: #024e76;
+}
+section{
+	padding: 60px;
+}
+.hero {
+	background-image: url("../images/hero-bg.jpeg");
+	height: 600 px;
+	background-size:cover;
+	background-position:center;
+
 }

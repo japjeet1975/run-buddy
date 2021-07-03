@@ -242,3 +242,7 @@ text-align: center ;
 .contact-info a{
 	color: yellow;
 }
+.hero-secondary {
+	background-color: black;
+	color: red;
+}
